@@ -30,6 +30,11 @@ Features:
 6. Customizable, Configurable and dynamic “Contact Us” form portlet.
 7. Configurable Contact Information and Social Media links information
 
+About Company Info:
+
+Aspire Software Solutions
+https://aspiresoftware.in/contact.html
+
 Note:
 If you need any support regarding  to extend this theme for your specific requirement or have an issue during use, please feel free to contact us at hello@aspiresoftware.in 
 
